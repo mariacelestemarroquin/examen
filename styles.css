@@ -1,0 +1,10 @@
+body{
+background-image:url("https://i.pinimg.com/564x/83/bb/6c/83bb6c34b83ba2901bd462993b331cf6.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+
+color: black;
+}
+
+/* use this to put borders around things... */
